@@ -1,0 +1,5 @@
+[
+  { "endPoindID": "aaa", "apiVersion": 1, "bulkMode": false },
+  { "endPoindID": "bbb", "apiVersion": 2, "bulkMode": false },
+  { "endPoindID": "ccc", "apiVersion": 1, "bulkMode": true }
+]
